@@ -160,6 +160,7 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
+    <Content Include="Miller\CodeTheWay.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
