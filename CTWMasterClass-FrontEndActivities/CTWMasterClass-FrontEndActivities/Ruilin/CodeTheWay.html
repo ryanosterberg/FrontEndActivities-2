@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <link href="site.css" rel="stylesheet" />
+    <script src="JavaScript.js"></script>
     <title>Code The Way</title>
 </head>
-<body>
+<body onload="showHide()">
     <img src="../IMAGE_CONTENT/Code the Way/CodeTheWay Logo.png" />
     <h1 class="majorHeading">Code The Way</h1>
     <h3 class="minorHeading">Mission</h3>
@@ -15,16 +16,20 @@
     </div>
     <ul>
         <li>
-        <div class="tooltip">Student access to real-world job experience <div class="tooltiptext">In addition to an advanced course that may earn post-secondary credits, students get experience working collaboratively on a project that benefits a nonprofit, culminating in a presentation to business leaders.</div>
-        </div> </li>
+            <div class="tooltip">
+                Student access to real-world job experience <div class="tooltiptext">In addition to an advanced course that may earn post-secondary credits, students get experience working collaboratively on a project that benefits a nonprofit, culminating in a presentation to business leaders.</div>
+            </div>
+        </li>
         <li> <div class="tooltip"> Companies are part of the solution <div class="tooltiptext"> Companies invest in education, make technology more accessible to nonprofits, offer their employees a meaningful volunteer experience, and contribute to the talent pipeline.</div> </div> </li>
         <li> <div class="tooltip"> Increasing certified computer science teachers <div class="tooltiptext"> Support and training for computer science teacher certification increase the availability and quality of high school computer science programs. </div> </div> </li>
     </ul>
-    <h3>
-        <img src="../IMAGE_CONTENT/Code the Way/Team Learning.jpg" ALIGN="right" />
-            Vision
-    </h3>
-    High school students in Greater Milwaukee have access to high-quality computer science education and real-world job experiences, positioning them for success in technology-related fields
+    <button onclick="showHide()" class="buttonFormatting">Show Vision</button>
+    <div id="vision">
+        <p class="minorHeading">Vision</p>
+        <div class="generalText">
+            <p>High school students in Greater Milwaukee have access to high quality computer science education and real-world job experiences, positioning them for success in technology-related fields.</p>
+        </div>
+    </div>
     <h3 class="minorHeading">Links</h3>
     <ul>
         <li class="buttonFormatting"><a href="LifeNavigator.html">Life Navigators</a></li>

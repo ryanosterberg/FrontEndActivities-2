@@ -162,6 +162,7 @@
     <Content Include="INSTRUCTIONS\Instructions.txt" />
     <Content Include="Ruilin\CodeTheWay.html" />
     <Content Include="Ruilin\Heroes for Healthcare.html" />
+    <Content Include="Ruilin\JavaScript.js" />
     <Content Include="Ruilin\LifeNavigator.html" />
     <Content Include="Ruilin\Media.html" />
     <Content Include="Ruilin\site.css" />
