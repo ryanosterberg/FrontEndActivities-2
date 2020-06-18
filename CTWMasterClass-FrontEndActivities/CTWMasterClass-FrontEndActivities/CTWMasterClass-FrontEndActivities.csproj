@@ -164,6 +164,7 @@
     <Content Include="Riley\HeroesforHealthcare.html" />
     <Content Include="Riley\LifeNavigators.html" />
     <Content Include="Riley\Media.html" />
+    <Content Include="Riley\mySite.js" />
     <Content Include="Riley\site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

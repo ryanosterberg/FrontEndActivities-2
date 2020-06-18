@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <link href="site.css" rel="stylesheet" />
+    <script src="mySite.js"></script>
     <title>Code The Way Website</title>
 </head>
-<body>
+<body onload="showHide()">
     <img src="../IMAGE_CONTENT/Code the Way/CodeTheWay Logo.png" />
     <h1 align="center" class="majorHeading"> Code the Way </h1>
     <h3 class="minorHeading"> Mission </h3>
@@ -25,22 +26,27 @@
                     Companies are part of the solution
                     <div class="tooltiptext"> Companies invest in education, make technology more accessible to nonprofits, offer their employees a meaningful volunteer experience, and contribute to the talent pipeline. </div>
                 </div>
-  
-    </li>
-    <li>
-        <div class="tooltip">
-            Increasing certified computer science teachers
-            <div class="tooltiptext">Support and training for computer science teacher certification increase the availability and quality of high school computer science programs. </div>
-        </div>
-    </li>
-   
 
-    </ul>
-        </div>
+            </li>
+            <li>
+                <div class="tooltip">
+                    Increasing certified computer science teachers
+                    <div class="tooltiptext">Support and training for computer science teacher certification increase the availability and quality of high school computer science programs. </div>
+                </div>
+            </li>
+
+
+        </ul>
+    </div>
     <br>
     <img src="../IMAGE_CONTENT/Code the Way/Team Learning.jpg" ALIGN="right" />
-    <h3 class="minorHeading"> Vision </h3>
-    <p class="generalText"> High school students in Greater Milwaukee have access to high-quality computer science education and real-world job experiences, positioning them for success in technology-related fields. </p>
+    <button onclick="showHide()" class="buttonFormatting">Show Vision</button>
+    <div id="vision">
+        <p class="minorHeading">Vision</p>
+        <div class="generalText">
+            <p>High school students in Greater Milwaukee have access to high quality computer science education and real-world job experiences, positioning them for success in technology-related fields.</p>
+        </div>
+    </div>
 
     <br>
     <h3 class="minorHeading"> Links </h3>
