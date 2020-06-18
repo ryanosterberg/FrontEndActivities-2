@@ -165,10 +165,17 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="Miller\CodeTheWay.html" />
     <Content Include="Miller\HeroesForHealthcare.html" />
     <Content Include="Miller\Media.html" />
     <Content Include="Miller\LifeNavigators.html" />
+=======
+    <Content Include="Ruilin\CodeTheWay.html" />
+    <Content Include="Ruilin\Heroes for Healthcare.html" />
+    <Content Include="Ruilin\LifeNavigator.html" />
+    <Content Include="Ruilin\Media.html" />
+>>>>>>> ruilinHTML
 =======
     <Content Include="Riley\CodeTheWay.html" />
     <Content Include="Riley\HeroesforHealthcare.html" />
