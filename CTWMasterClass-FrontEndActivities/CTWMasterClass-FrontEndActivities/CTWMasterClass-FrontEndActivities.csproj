@@ -164,6 +164,7 @@
     <Content Include="Miller\HeroesForHealthcare.html" />
     <Content Include="Miller\Media.html" />
     <Content Include="Miller\LifeNavigators.html" />
+    <Content Include="Miller\site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
