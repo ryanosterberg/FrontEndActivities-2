@@ -127,6 +127,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Andrei\CodeTheWay.html" />
+    <Content Include="Andrei\HeroesForHealthcare.html" />
+    <Content Include="Andrei\LifeNavigators.html" />
+    <Content Include="Andrei\Media.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -160,10 +164,17 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
+<<<<<<< HEAD
     <Content Include="Ruilin\CodeTheWay.html" />
     <Content Include="Ruilin\Heroes for Healthcare.html" />
     <Content Include="Ruilin\LifeNavigator.html" />
     <Content Include="Ruilin\Media.html" />
+=======
+    <Content Include="Riley\CodeTheWay.html" />
+    <Content Include="Riley\HeroesforHealthcare.html" />
+    <Content Include="Riley\LifeNavigators.html" />
+    <Content Include="Riley\Media.html" />
+>>>>>>> dev
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
