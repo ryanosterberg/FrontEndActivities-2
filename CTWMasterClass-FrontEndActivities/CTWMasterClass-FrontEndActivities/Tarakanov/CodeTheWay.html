@@ -2,10 +2,11 @@
 <html>
 <head>
     <meta charset="utf-8" />
+    <script src="mySite.js"></script>
     <link href="../Content/Site.css" rel="stylesheet" />
     <title>Code The Way</title>
 </head>
-<body>
+<body onload="showHide()">
     <div align="left">
         <img src="../IMAGE_CONTENT/Code the Way/CodeTheWay Logo.png" />
     </div>
@@ -29,26 +30,34 @@
                 </li>
                 <li>
                     <div class="tooltip">
-                     Companies are part of the solution – Companies invest in education, make technology more accessible to nonprofits, offer their employees a meaningful volunteer experience, and contribute to the talent pipeline.
-                    <div class="tooltiptext">
+                        Companies are part of the solution – Companies invest in education, make technology more accessible to nonprofits, offer their employees a meaningful volunteer experience, and contribute to the talent pipeline.
+                        <div class="tooltiptext">
 
+                        </div>
                     </div>
-                    </div>
-        </li>
+                </li>
                 <li>
                     <div class="tooltip">
                         Increasing certified computer science teachers – Support and training for computer science teacher certification increase the availability and quality of high school computer science programs.
+                        <div class="tooltiptext">
+
+                        </div>
                     </div>
-                    </li>
-        
-        </ul>
+                </li>
+
+            </ul>
+            <button onclick="showHide()" class="buttonFormatting">Show Vision</button>
+            <div id="vision">
+                <p class="minorHeading">Vision</p>
+                <div class="generalText">
+                    <p>High school students in Greater Milwaukee have access to high quality computer science education and real-world job experiences, positioning them for success in technology-related fields.</p>
+                </div>
+            </div>
+
+
+        </div>
     </div>
-    </div>
-    <div align="right">
-        <img src="../IMAGE_CONTENT/Code the Way/Team Learning.jpg" ALIGN="right" />
-        <h3 class="minorHeading">Vision</h3>
-        <p class="generalText">High school students in Greater Milwaukee have access to high-quality computer science education and real-world job experiences, positioning them for success in technology-related fields</p>
-    </div>
+    
     <div aling="left">
         <h3>Links</h3>
         <div>

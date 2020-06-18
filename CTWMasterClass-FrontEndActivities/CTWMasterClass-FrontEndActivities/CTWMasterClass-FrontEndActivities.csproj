@@ -181,6 +181,7 @@
     <Content Include="Tarakanov\HeroesForHealthcare.html" />
     <Content Include="Tarakanov\LifeNavigators.html" />
     <Content Include="Tarakanov\Media.html" />
+    <Content Include="Tarakanov\mySite.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
