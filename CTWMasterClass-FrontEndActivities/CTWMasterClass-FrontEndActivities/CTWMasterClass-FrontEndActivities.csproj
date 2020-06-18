@@ -164,6 +164,7 @@
     <Content Include="Ruilin\Heroes for Healthcare.html" />
     <Content Include="Ruilin\LifeNavigator.html" />
     <Content Include="Ruilin\Media.html" />
+    <Content Include="Ruilin\site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
