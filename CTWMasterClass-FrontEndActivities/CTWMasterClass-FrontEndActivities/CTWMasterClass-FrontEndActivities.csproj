@@ -163,8 +163,11 @@
     <Content Include="Riley\CodeTheWay.html" />
     <Content Include="Riley\CodeTheWay2.html" />
     <Content Include="Riley\HeroesforHealthcare.html" />
+    <Content Include="Riley\HeroesforHealthcare2.html" />
     <Content Include="Riley\LifeNavigators.html" />
+    <Content Include="Riley\LifeNavigators2.html" />
     <Content Include="Riley\Media.html" />
+    <Content Include="Riley\Media2.html" />
     <Content Include="Riley\mySite.js" />
     <Content Include="Riley\site.css" />
     <Content Include="Scripts\bootstrap.js" />
