@@ -160,10 +160,14 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigators4.jpg" />
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
+    <Content Include="Ruilin\CodeTheWay 2.html" />
     <Content Include="Ruilin\CodeTheWay.html" />
+    <Content Include="Ruilin\Heroes for Healthcare 2.html" />
     <Content Include="Ruilin\Heroes for Healthcare.html" />
     <Content Include="Ruilin\JavaScript.js" />
     <Content Include="Ruilin\LifeNavigator.html" />
+    <Content Include="Ruilin\LifeNavigators2.html" />
+    <Content Include="Ruilin\Media 2.html" />
     <Content Include="Ruilin\Media.html" />
     <Content Include="Ruilin\site.css" />
     <Content Include="Scripts\bootstrap.js" />
