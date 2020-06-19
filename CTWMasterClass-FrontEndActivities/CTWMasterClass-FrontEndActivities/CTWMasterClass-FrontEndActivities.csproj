@@ -178,7 +178,9 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Tarakanov\CodeTheWay.html" />
+    <Content Include="Tarakanov\CodeTheWay2.html" />
     <Content Include="Tarakanov\HeroesForHealthcare.html" />
+    <Content Include="Tarakanov\HeroesForHealthcare2.html" />
     <Content Include="Tarakanov\LifeNavigators.html" />
     <Content Include="Tarakanov\Media.html" />
     <Content Include="Tarakanov\mySite.js" />
