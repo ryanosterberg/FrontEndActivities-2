@@ -161,9 +161,14 @@
     <Content Include="IMAGE_CONTENT\Life Navigators\LifeNavigatorsMission.txt" />
     <Content Include="INSTRUCTIONS\Instructions.txt" />
     <Content Include="Miller\CodeTheWay.html" />
+    <Content Include="Miller\CodeTheWay2.html" />
     <Content Include="Miller\HeroesForHealthcare.html" />
+    <Content Include="Miller\HeroesForHealthcare2.html" />
+    <Content Include="Miller\JSSite.js" />
+    <Content Include="Miller\LifeNavigators2.html" />
     <Content Include="Miller\Media.html" />
     <Content Include="Miller\LifeNavigators.html" />
+    <Content Include="Miller\Media2.html" />
     <Content Include="Miller\site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
